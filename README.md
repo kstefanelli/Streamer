@@ -1,5 +1,5 @@
 <p align="center" style="font-style:italic">
- Streamer is a mock streaming platform offering a library of films and television series built with React.js, Next.js, and Tailwind CSS.
+ Streamer is a mock streaming platform.
 </p>
 
 ## Table of Contents

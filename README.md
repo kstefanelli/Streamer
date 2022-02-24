@@ -1,5 +1,5 @@
 <p align="center" style="font-style:italic">
- Streamer is a mock streaming platform.
+ Streamer is a mock streaming platform. View deployed version here: https://streamer-jade.vercel.app/
 </p>
 
 ## Table of Contents

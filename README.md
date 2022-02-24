@@ -11,8 +11,7 @@
 
 ## Introduction
 
-Streamer is a mock streaming platform offering a library of films and television series built with React.js, Next.js, and Tailwind CSS.
-
+Streamer is a mock streaming platform offering a library of films and television series. Built with a mobile-first mindset supporting mobile, tablets, desktop, and 4k screens. Developed with React.js, Next.js, and Tailwind CSS.
 ## Getting Started
 
 Fork and clone this repo. Then, `yarn install`.

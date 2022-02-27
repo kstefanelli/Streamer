@@ -16,7 +16,7 @@ Streamer is a mock streaming platform offering a library of films and television
 
 Fork and clone this repo. Then, `yarn install`.
 
-Next, run the development server: Run `yarn run dev`.
+Next, run the development server. Run `yarn run dev`.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
